@@ -1,0 +1,23 @@
+- AWS
+- AZURE
+- Data Science with Python
+- Machine Learning with Python
+- DEVOPS
+- Kubernetes
+- Docker
+- Python Programming
+- Core JAVA Programming
+- Java Script
+- UI Developer
+- Software Testing
+- Selenium - Automation
+- Data Base Concepts & SQL
+- Oracle 11g SQL / PL SQL
+- Business Analyst
+- Tableau
+- Power BI
+- Salesforce
+- React JS
+- Angular
+- Spoken English
+
